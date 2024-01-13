@@ -1,3 +1,3 @@
 ### Hi there 👋
-- 🌱 I am interested in Physics and data analysis, and I am getting used to programming, though I am not particularly fond of it.
+- 🌱 I am interested in physics and data analysis. I enjoy utilizing quantitative research methods to tackle real-life problems.
 - 📫 How to reach me: ckkyue@connect.ust.hk
